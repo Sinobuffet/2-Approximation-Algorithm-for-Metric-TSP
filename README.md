@@ -1,1 +1,1 @@
-# 2-approximation-algorithm-for-Metric-TSP
+# 2-Approximation-Algorithm-for-Metric-TSP
